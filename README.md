@@ -1,1 +1,1 @@
-# Tindoq
+# Tindog
